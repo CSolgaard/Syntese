@@ -147,3 +147,12 @@ src/RBF_new/*
 *.txt
 *.html
 *.m
+*.pdf
+*.dat
+*.kml
+*.pkl
+*.zip
+*.bat
+*.pptx
+*.jpg
+*.tif
