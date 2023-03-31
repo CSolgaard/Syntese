@@ -147,7 +147,7 @@ src/RBF_new/*
 *.txt
 *.html
 *.m
-*.pdf
+# *.pdf
 *.dat
 *.kml
 *.pkl
