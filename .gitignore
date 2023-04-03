@@ -132,11 +132,11 @@ dmypy.json
 *.nc
 *.nc4
 *.grd
-*.txt
+# *.txt
 .vscode/*
 .data
 gmt.history
-*.png
+# *.png
 *.gif
 src/RBF_new/*
 
@@ -144,10 +144,10 @@ src/RBF_new/*
 
 
 *.mat
-# *.txt
+*.txt
 *.html
 *.m
-# *.pdf
+*.pdf
 *.dat
 *.kml
 *.pkl
@@ -156,3 +156,4 @@ src/RBF_new/*
 *.pptx
 *.jpg
 *.tif
+*.pdf

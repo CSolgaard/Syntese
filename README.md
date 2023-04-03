@@ -1,4 +1,22 @@
-﻿**30220 Synthesis in Earth and Space Physics**
+﻿**Folder Structure** 
+
+The overall folder structure of the software can  be seen in the figure below.  
+
+![](Aspose.Words.d69f7e1d-b27b-4f46-a70f-149e1b06c691.001.png)
+
+**Further information about structure:**  
+
+For an in depth understanding of the code architecture see the rapport.pdf and the project \_description for over all understanding.  
+
+**Required Python Libraries** 
+
+The needed python libraries needed to run the code is as follows.  
+
+numpy, tqdm, scipy, dataclasses, numba, pandas, os, struct, Pathlib and pyproj 
+
+These can all be install using pip install in miniconda as:  >(Your Environment) (Path) pip install numpy  
+
+**30220 Synthesis in Earth and Space Physics**
 
 10 ECTS, 
 
